@@ -74,6 +74,7 @@ Step7:- Validate the outputs.
 ### PROGRAM 
 /*
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
+
 Developed by: Manoj Guna Sundar Tella.
 
 RegisterNumber:  212221240026.
