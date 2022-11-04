@@ -75,6 +75,7 @@ Step7:- Validate the outputs.
 /*
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
 Developed by: Manoj Guna Sundar Tella.
+
 RegisterNumber:  212221240026.
 */
 ```
@@ -111,10 +112,10 @@ endmodule
 
 
 ### RTL LOGIC  
-
+#### Encoder
 ![enco rtl](https://user-images.githubusercontent.com/94883876/199717447-f1c2fd76-3dd7-4d50-9162-91e922553bea.jpg)
 
-
+#### Decoder
 ![decode rtl](https://user-images.githubusercontent.com/94883876/199717460-5e9a44b9-470d-416c-ad55-e8530421ed1a.jpg)
 
 
@@ -122,16 +123,20 @@ endmodule
 
 
 ### TIMING DIGRAMS  
+#### Encoder
+![encode time](https://user-images.githubusercontent.com/94883876/199899015-24fe1ac2-c056-44b8-9bb4-f13b7bd3ea09.jpg)
 
-
-
+#### Decoder
+![decode time](https://user-images.githubusercontent.com/94883876/199899034-95b3fda7-fb34-4931-a75c-ac63f60e8556.png)
 
 
 ### TRUTH TABLE 
+#### Encoder
+![encode truth](https://user-images.githubusercontent.com/94883876/199899308-da32baf2-31b1-4480-887d-a974dd2489ae.png)
 
 
-
-
+#### Decoder
+![decode truth](https://user-images.githubusercontent.com/94883876/199899324-0898c4b4-06f5-4607-a29b-633fd3b34391.png)
 
 
 ### RESULTS 
